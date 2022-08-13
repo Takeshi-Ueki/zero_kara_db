@@ -1,4 +1,4 @@
--- 任意の2文字
+-- 任意の3文字
 SELECT *
   FROM SampleLike
- WHERE strcol LIKE('abc__');
+ WHERE strcol LIKE('abc___');
