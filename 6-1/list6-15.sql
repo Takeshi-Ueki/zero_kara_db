@@ -1,0 +1,2 @@
+-- 現在の日時
+SELECT CURRENT_TIMESTAMP;

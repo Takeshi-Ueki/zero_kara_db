@@ -1,0 +1,2 @@
+-- 現在の時間
+SELECT CURRENT_TIME;

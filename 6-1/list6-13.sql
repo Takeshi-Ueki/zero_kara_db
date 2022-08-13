@@ -1,0 +1,2 @@
+-- 現在の日付
+SELECT CURRENT_DATE;
